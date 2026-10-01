@@ -1,0 +1,17 @@
+.DS_Store
+._*
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.Rproj.user/
+.Rhistory
+.RData
+.env
+~$*
+*.trr
+*.xtc
+*.tpr
+*.cpt
+*.edr
